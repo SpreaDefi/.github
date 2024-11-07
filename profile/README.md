@@ -12,7 +12,7 @@ This repository serves as an entry point to our project’s public and private r
 
 ## Accessing Private Repositories
 
-To access our backend and frontend repositories, please submit a request via [GitHub] or email us at **[0xgaslimit@gmail.com]** with the following information:
+To access our backend and frontend repositories, please submit a request via [form](https://docs.google.com/forms/d/e/1FAIpQLSdIqS98YwHVOL1C9NZohWb0_3FgipLX4QnGpzfnR4gs3Dxz3A/viewform?usp=sf_link) or email us at **0xgaslimit@gmail.com** with the following information:
 
 1. **Your GitHub username**
 2. **Purpose of Access** (e.g., review, partnership, collaboration)
